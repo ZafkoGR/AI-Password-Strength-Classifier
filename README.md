@@ -103,20 +103,6 @@ Specifically: **Multi-class Classification**
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone this repository
-2. Install dependencies using `pip install -r requirements.txt`
-3. Run the main notebook or script to test password strength classification
-
----
-
-## 📄 License
-
-This project is open-source and licensed under the MIT License.
-
----
-
 ## 👤 Author
 
 **Konstantinos Zafeiropoulos**  
